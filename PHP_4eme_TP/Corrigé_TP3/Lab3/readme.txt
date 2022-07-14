@@ -1,0 +1,1 @@
+décompressez le tout dans votre répertoire htdocs

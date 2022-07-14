@@ -1,0 +1,12 @@
+What Is Beacon Technology?
+
+Beacons are small, wireless transmitters that use low-energy Bluetooth technology to send signals to other smart devices nearby. They are one of the latest developments in location technology and proximity marketing. Put simply, they connect and transmit information to smart devices making location-based searching and interaction easier and more accurate.
+
+How Do Beacons Work?
+
+The beacon device itself is incredibly simple. Each device contains a CPU, radio, and batteries, and it works by repeatedly broadcasting out an identifier. This identifier is picked up by your device, usually a mobile, and marks out an important place in your environment.  
+
+The identifier is a unique ID number that your smartphone recognizes as unique to the beacon. Once connected, the beacon will carry out whatever function it has been programmed to perform.
+
+
+

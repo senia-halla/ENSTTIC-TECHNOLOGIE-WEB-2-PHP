@@ -1,0 +1,16 @@
+Il n'est pas demandé d'apprendre par coeur la solution du TP8 mais de comprendre le principe d'authentification à l'aide des sessions.
+
+Pour tester la solution du TP5 il faut:
+
+1. copier le dossier TP5 dans votre dossier "www" de easyPhp ou "hdocs" de xampp.
+
+2. à l'aide de PhpAdmin créer une nouvelle base de données avec le nom "auth"
+
+3. aller sur la base de données "auth", ensuite sur l'onglet SQL pour exécuter le contenu du fichier "database.sql". Un copie/coller du contenu de "database.sql" dans l'onglet SQL suffit pour créer la table "users".
+
+4. toujours à l'aide PhoMyAdmin, verifier que vous avez bien créer la table "users".
+
+5. à l'aide de votre navigateurn, tester la solution en allant sur la page principale qui est "index.php" (biensûr il faut taper 127.0.0.1/TP5/index.php au niveau de la barre d'adresse si votre dossier "TP5" se trouve directement dans le dossier "www"   
+
+6. si vous avez des questions, vous pouvez me contacter par email.
+

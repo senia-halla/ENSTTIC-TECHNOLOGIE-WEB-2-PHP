@@ -1,0 +1,11 @@
+10,Administration,200,1700
+20,Marketing,201,1800
+30,Purchasing,114,1700
+40,Human ressources,203,2000
+50,Shipping,121,1500
+60,IT,103,1400
+70,Public relation,204,2300
+80,Sales,145,2100
+90,Executive,100,1700
+100,Finance,108,1700
+110,Accounting,205,1700
